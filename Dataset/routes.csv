@@ -1,0 +1,6 @@
+route_id,route,Service_type
+R1,Metro link,Express
+R2,City Dash,Express
+R3,Highway Freight,Standard
+R4,Rural Feeder,Standard
+,,
