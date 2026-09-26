@@ -219,7 +219,8 @@ This helps identify:
 
 # 🖼️ Power BI Dashboard Preview
 
-<img width="1253" height="702" alt="Screenshot 2026-09-26 130017" src="https://github.com/user-attachments/assets/cd6c4d63-393f-4d97-99c4-f18ceab85aba" />
+<img width="950" height="533" alt="Screenshot 2026-09-26 151259" src="https://github.com/user-attachments/assets/4d421783-2599-4a20-9a90-3cce6f183f7e" />
+
 
 
 ---
